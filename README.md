@@ -9,4 +9,4 @@ It requires _cs1graphics.py_ and _simplegraphics.py_ to run which were provided 
 ### To Run:
 1. Download the project 
 2. Open the project on IDLE
-3. Run the file
+3. Run the 'imageDrawer.py' file
